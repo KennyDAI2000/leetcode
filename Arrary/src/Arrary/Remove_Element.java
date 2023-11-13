@@ -1,4 +1,4 @@
-//https://leetcode.cn/problems/remove-element/description/
+package Arrary;//https://leetcode.cn/problems/remove-element/description/
 import org.junit.Test;
 
 

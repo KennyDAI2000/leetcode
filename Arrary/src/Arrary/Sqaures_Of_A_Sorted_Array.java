@@ -1,11 +1,11 @@
-//https://leetcode.cn/problems/squares-of-a-sorted-array/description/
-import org.junit.Test;
+package Arrary;//https://leetcode.cn/problems/squares-of-a-sorted-array/description/
+//import org.junit.Test;
 
 import java.util.Arrays;
 
 public class Sqaures_Of_A_Sorted_Array {
     //TODO 双指针，因为最大的平方数一定在两侧产生
-    @Test
+    //@Test
     public void test(){
         int[] nums = {-4,-1,0,3,10};
         System.out.println(Arrays.toString(sortedSquares(nums)));

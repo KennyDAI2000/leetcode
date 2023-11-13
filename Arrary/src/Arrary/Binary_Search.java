@@ -1,8 +1,9 @@
+package Arrary;
 //https://leetcode.cn/problems/binary-search/description/
-import org.junit.Test;
+//import org.junit.Test;
 
 public class Binary_Search {
-    @Test
+    //@Test
     public void Test(){
         int[] nums = {2, 5, 8, 12};
         int target = 2;
