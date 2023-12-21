@@ -1,6 +1,5 @@
-package Stack;
+package Stack_and_Queue;
 
-import java.util.ArrayList;
 import java.util.Stack;
 
 public class RemoveDuplicate {
